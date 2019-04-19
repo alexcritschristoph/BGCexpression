@@ -1,5 +1,5 @@
 # BGCexpression
-A repository for my 2018 ISME paper: "Metatranscriptomic expression patternsof biosynthetic genes in soil communities"
+A repository for my 2018 ISME poster: "Metatranscriptomic expression patternsof biosynthetic genes in soil communities"
 
 For the poster: `poster.pdf`.
 
